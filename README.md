@@ -154,8 +154,8 @@
       <br>Flutter
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=React Native" width="48" height="48" alt="React Native" />
-      <br>React Native
+        <img src="https://skillicons.dev/icons?i=React" width="48" height="48" alt="React" />
+      <br>ReactNative
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" />
