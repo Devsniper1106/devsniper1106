@@ -1,7 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&size=28&pause=1000&color=FFC606&vCenter=true&random=false&width=600&lines=Be+better+today+than+you+were+yesterday)](https://git.io/typing-svg)
 
-# Hi, I'm Top dev  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+<br/>
 
   [![](https://visitcount.itsvg.in/api?id=muazzeza&icon=0&color=0)](https://visitcount.itsvg.in)
 
