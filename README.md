@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedan+SC&size=28&pause=1000&color=FFC606&vCenter=true&random=false&width=600&lines=Be+better+today+than+you+were+yesterday)](https://git.io/typing-svg)
 
-# Hi, I'm Muazzez  
+# Hi, I'm Top dev  
 
   [![](https://visitcount.itsvg.in/api?id=muazzeza&icon=0&color=0)](https://visitcount.itsvg.in)
 
