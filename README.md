@@ -154,7 +154,7 @@
       <br>Flutter
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=React" width="48" height="48" alt="React" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
       <br>ReactNative
     </td>
               <td align="center" width="96">
